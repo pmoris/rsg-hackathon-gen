@@ -6,7 +6,7 @@ First, we've listed a couple of similar projects that might serve as an inspirat
 
 You'll also find a few techniques that can help you get started. Historically, markov chains were often used for generating text. They are relatively simple and can be created quite quickly, but can lack context awareness. Nowadays, recurrent neural networks (more specifically, LSTMs) have become very popular for this task. Compared to markov chains they are more capable of keep tracking of dependencies, but they come at the cost of being more difficult to train.
 
-The data we've provided is a dump of the [PMC Open Access dataset]!(https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/). It contains open access research articles from multiple journals in XML format. More specifically, both the contents and meta-data of the articles if encoded in the [Journal Archive and Interchange Tag Set (JATS)](https://jats.nlm.nih.gov/archiving/) format.
+The data we've provided is a dump of the [PMC Open Access dataset](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/). It contains open access research articles from multiple journals in XML format. More specifically, both the contents and meta-data of the articles if encoded in the [Journal Archive and Interchange Tag Set (JATS)](https://jats.nlm.nih.gov/archiving/) format.
 
 Lastly, here are a few general tips:
 
